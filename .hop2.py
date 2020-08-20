@@ -12,7 +12,7 @@ try:
     from mechanize import Browser
 except ImportError:
     os.system('pip2 install requests')
-    os.system('pip2 install mechanize') EET
+    os.system('pip2 install mechanize')
     os.system('python2 hop.py')
 
 #Browser Setting
