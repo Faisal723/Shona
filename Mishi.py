@@ -64,11 +64,11 @@ banner = """
         \x1b[1;91m             (Love)   (Shehzada)
 --------------------------------------------------------------------------------------"""
 
-\x1b[1;92m➣ Coder   : Mishal🌹Khan🌹Mishi
+\x1b[1;92m➣ Coder   : Mishal Khan Mishi❤
 \x1b[1;92m➣ Github  : https://github.com/Shehzadi007
-\x1b[1;95m➣ Facebook: Faisal Rehman❤🥀
+\x1b[1;95m➣ Facebook: Faisal Rehman❤
 \x1b[1;92m➣ Gang  : Night 007 Family
-\x1b[1;91m➣  M🌹 is My Lifeline 🎸
+\x1b[1;91m➣  M is My Lifeline❤
 \x1b[1;92m➣ Whatsapp: +923035191880
 
 ----------------------------------------------------------------------------------------"""
